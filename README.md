@@ -51,3 +51,9 @@ Please visit [System Prompts Roadmap & Feedback](https://systemprompts.featureba
 💬 **Discord:** `x1xh`  
 
 ⭐ **Drop a star if you find this useful!**
+
+## 📄 **System Prompt Pattern**
+
+A new file, `system_prompt_pattern.md`, has been added to document the system prompt pattern. This file contains a consolidated pattern for system prompts, including sections for role definition, capabilities, guidelines, tools, environment, and interaction rules. It also includes examples of system prompts for different AI agents and provides a template for creating new system prompts.
+
+You can find the `system_prompt_pattern.md` file [here](system_prompt_pattern.md).

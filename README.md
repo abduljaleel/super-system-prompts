@@ -51,3 +51,45 @@ Please visit [System Prompts Roadmap & Feedback](https://systemprompts.featureba
 💬 **Discord:** `x1xh`  
 
 ⭐ **Drop a star if you find this useful!**
+
+## 📄 **System Prompt Pattern**
+
+A new file, `system_prompt_pattern.md`, has been added to document the system prompt pattern. This file contains a consolidated pattern for system prompts, including sections for role definition, capabilities, guidelines, tools, environment, and interaction rules. It also includes examples of system prompts for different AI agents and provides a template for creating new system prompts.
+
+You can find the `system_prompt_pattern.md` file [here](system_prompt_pattern.md).
+
+## 🎨 **Creative AI System Prompts**
+
+Welcome to the world of AI system prompts! This repository is a treasure trove of insights into the structure and functionality of various AI agents. Whether you're a developer, researcher, or just an AI enthusiast, you'll find something valuable here.
+
+### 🌟 **Why System Prompts Matter**
+
+System prompts are the backbone of AI agents. They define the role, capabilities, and guidelines for the AI, ensuring it operates effectively and efficiently. By understanding and utilizing these prompts, you can create more robust and intelligent AI systems.
+
+### 📘 **Explore the System Prompt Pattern**
+
+We've created a comprehensive guide to system prompts in the `system_prompt_pattern.md` file. This guide includes:
+
+- **Role Definition**: Clearly outline the role of the AI assistant and its capabilities.
+- **Capabilities**: Detail the tools and tasks the AI can perform.
+- **Guidelines**: Establish operating principles and best practices.
+- **Iterative Process**: Define a step-by-step process for the AI to follow.
+- **Communication Guidelines**: Ensure clear and polite communication with users.
+- **Tool Usage**: Specify the tools available and how they should be used.
+- **Error Handling**: Define a process for managing errors.
+- **Documentation and Planning**: Encourage detailed and accurate documentation.
+- **Security and Data Integrity**: Follow security best practices and protect sensitive information.
+
+### 🛠 **Create Your Own System Prompts**
+
+With the template provided in the `system_prompt_pattern.md` file, you can create your own system prompts tailored to your specific needs. Whether you're building a coding assistant, a software engineer, or an AI editor, this template will guide you through the process.
+
+### 🌐 **Join the Community**
+
+Connect with other AI enthusiasts and share your experiences. Follow me on X [NotLucknite](https://x.com/NotLucknite) and join the discussion on Discord `x1xh`.
+
+### ⭐ **Support the Project**
+
+If you find this repository useful, please consider dropping a star. Your support helps us continue to provide valuable resources to the AI community.
+
+Happy prompting!
